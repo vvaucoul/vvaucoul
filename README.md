@@ -6,11 +6,11 @@
 
 # Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvaucoul&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvaucoul)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 # Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vvaucoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vvaucoul)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Contributions
 
