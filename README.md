@@ -1,5 +1,5 @@
 <a href="https://github.com/JaeSeoKim/badge42">
-  <img align="middle" src="https://badge42.herokuapp.com/api/stats/vvaucoul?privacyEmail=true" />
+  <img align="middle" src="https://badge42.vercel.app/api/v2/cl1up6ty6004409mq6xpnytje/stats?cursusId=21&coalitionId=48" />
 </a>
 
 ---
