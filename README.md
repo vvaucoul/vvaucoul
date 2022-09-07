@@ -16,18 +16,22 @@
 ---
 
 <div class="sk">
+  <h2>Languages</h2>
   <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C&logoWidth=20" width="96"></img>
   <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoWidth=20" width="128"></img>
   <img src="https://img.shields.io/badge/-Assembly-black?style=for-the-badge&logo=assemblyscript&logoWidth=20" width="198"></img>
   <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoWidth=20" width="220"></img>
+  <img src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=PYTHON&logoWidth=20" width="180"></img>
 </div>
 
 <div class="sk">
+  <h2>Game Engines</h2>
   <img src="https://img.shields.io/badge/-Unreal Engine-black?style=for-the-badge&logo=unrealengine&logoWidth=20" width="259"></img>
   <img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoWidth=20" width="152"></img>
 </div>
 
 <div class="sk">
+  <h2>Technos Web</h2>
   <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoWidth=20" width="172"></img>
   <img src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoWidth=20" width="228"></img>
   <img src="https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vuedotjs&logoWidth=20" width="152"></img>
