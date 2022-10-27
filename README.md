@@ -1,3 +1,30 @@
+<!---
+## Hi There 👋, I'm Vincent !
+
+I'm a french IT developer. I'am currently studying at school 42 Paris. I started coding since 2014.<br>
+I'm passionate about operating system developement and artificial intelligence.<br>
+
+Currently working hard on my kernel from scratch in **C** and **ASM** with lot of fun 🙃
+
+## My best projects
+
+> - <a href="https://github.com/vvaucoul/KronOS">🖥️ **KronOS**</a><br>
+> - <a href="https://github.com/vvaucoul/FT_Linux">🐧 **FT-Linux**</a>
+> - <a href="https://github.com/vvaucoul/Lem-in">🐜 **Lem-In**</a>
+> - <a href="https://github.com/vvaucoul/WebServ">🌐 **WebServ**</a>
+> - <a href="https://github.com/vvaucoul/FT_Containers">📦 **FT-Containers**</a>
+
+## 42 Curriculum
+
+
+| Common Core | Post Common Core |
+| ----------- | ---------------- |
+| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
+| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
+| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
+| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
+--->
+
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="middle" src="https://badge42.vercel.app/api/v2/cl1up6ty6004409mq6xpnytje/stats?cursusId=21&coalitionId=48" />
 </a>
