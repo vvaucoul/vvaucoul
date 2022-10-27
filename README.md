@@ -1,4 +1,3 @@
-<!---
 ## Hi There 👋, I'm Vincent !
 
 I'm a french IT developer. I'am currently studying at school 42 Paris. I started coding since 2014.<br>
@@ -16,61 +15,44 @@ Currently working hard on my kernel from scratch in **C** and **ASM** with lot o
 
 ## 42 Curriculum
 
+| **COMMON CORE** | **POST COMMON CORE**|
+| ----------- | ----------- |
+| **Ft_Transcendence** | **FT_Turing** |
+| <a href="https://github.com/vvaucoul/WebServ">**WebServ**</a> | <a href="https://github.com/vvaucoul/Lem-in">**Lem-In**</a> |
+| <a href="https://github.com/vvaucoul/Ft_Containers">**Ft_Containers**</a> | <a href="https://github.com/vvaucoul/KronOS">**KFS-2**</a> |
+| **C++ Pool** | <a href="https://github.com/vvaucoul/KronOS">**KFS-1**</a> |
+| <a href="https://github.com/vvaucoul/Philosophers">**Philosophers**</a> | <a href="https://github.com/vvaucoul/Little-Penguin-1">**Little-Penguin-1**</a> |
+| <a href="https://github.com/vvaucoul/Push_Swap">**PushSwap**</a> | <a href="https://github.com/vvaucoul/Lem-IPC">**Lem-IPC**</a> |
+| <a href="https://github.com/vvaucoul/Minishell">**Minishell**</a> | <a href="https://github.com/vvaucoul/FT_Linux">**FT-Linux**</a> |
+| <a href="https://github.com/vvaucoul/Pipex">**Pipex**</a> | <a href="https://github.com/vvaucoul/nm">**NM**</a> |
+| <a href="https://github.com/vvaucoul/Ft_Services">**Ft_Services**</a> | <a href="https://github.com/vvaucoul/Dr-Quine">**Dr-Quine**</a> |
+| <a href="https://github.com/vvaucoul/LibASM">**LibASM**</a> | <a href="https://github.com/vvaucoul/Malloc">**Malloc**</a> |
+| <a href="https://github.com/vvaucoul/Ft_Server">**Ft_Server**</a> | <a href="https://github.com/vvaucoul/ft_ls">**FT_LS**</a> |
+| <a href="https://github.com/vvaucoul/Cub3D">**Cub3D**</a> |
+| <a href="https://github.com/vvaucoul/FdF">**FdF**</a> |
+| **Netwhat** |
+| <a href="https://github.com/vvaucoul/Ft_Printf">**Ft_Printf**</a> |
+| <a href="https://github.com/vvaucoul/get_next_line">**GetNextLine**</a> |
+| <a href="https://github.com/vvaucoul/Libft">**Libft**</a> |
 
-| Common Core | Post Common Core |
-| ----------- | ---------------- |
-| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
-| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
-| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
-| <a href="https://github.com/vvaucoul/LibFT">**LIBFT**</a> |  |
---->
+---
 
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="middle" src="https://badge42.vercel.app/api/v2/cl1up6ty6004409mq6xpnytje/stats?cursusId=21&coalitionId=48" />
 </a>
 
----
 
-<div class="sst">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=vvaucoul&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvaucoul&theme=dark" />
-  </a>
-</div>
+## Current Projects
+
+> - <a href="https://github.com/vvaucoul/KronOS/tree/work-in-progress">🖥️ **KFS-3**</a> - Memory managment for kernel<br>
+> - 🐍 **Python-Module-1**<br>
+> - 🛡️ **Snow Crash** - Software security (CTF Like)<br>
 
 ---
 
-<div class="sk">
-  <h2>Languages</h2>
-  <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C&logoWidth=20" width="96"></img>
-  <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoWidth=20" width="128"></img>
-  <img src="https://img.shields.io/badge/-Assembly-black?style=for-the-badge&logo=assemblyscript&logoWidth=20" width="198"></img>
-  <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoWidth=20" width="220"></img>
-  <img src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=PYTHON&logoWidth=20" width="180"></img>
-</div>
-
-<div class="sk">
-  <h2>Game Engines</h2>
-  <img src="https://img.shields.io/badge/-Unreal Engine-black?style=for-the-badge&logo=unrealengine&logoWidth=20" width="259"></img>
-  <img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoWidth=20" width="152"></img>
-</div>
-
-<div class="sk">
-  <h2>Technos Web</h2>
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoWidth=20" width="172"></img>
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoWidth=20" width="228"></img>
-  <img src="https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vuedotjs&logoWidth=20" width="152"></img>
-  <img src="https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs&logoWidth=20" width="166"></img>
-</div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvaucoul&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvaucoul&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vvaucoul&theme=darkhub&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvaucoul&repo=ft_ls&theme=dark" />
-</a>
--->
