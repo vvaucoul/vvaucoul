@@ -3,7 +3,7 @@
 I'm a french IT developer. I am currently studying at school 42 Paris. I started coding since 2014.<br>
 I'm passionate about operating system developement and artificial intelligence.<br>
 
-Currently working hard on my kernel from scratch in **C** and **ASM** with lot of fun 🙃
+Currently working on my kernel from scratch in **C** and **ASM** with lot of fun 🙃
 
 ## My best projects
 
