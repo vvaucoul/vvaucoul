@@ -11,6 +11,7 @@ Currently working on my kernel from scratch in **C** and **ASM** with lot of fun
 > - <a href="https://github.com/vvaucoul/FT_Linux">🐧 **FT-Linux**</a>
 > - <a href="https://github.com/vvaucoul/Lem-in">🐜 **Lem-In**</a>
 > - <a href="https://github.com/vvaucoul/Lem-IPC">📡 **Lem-IPC**</a>
+> - <a href="https://github.com/vvaucoul/Nibbler">🐍 **Nibbler**</a>
 > - <a href="https://github.com/vvaucoul/WebServ">🌐 **WebServ**</a>
 > - <a href="https://github.com/vvaucoul/Ft_Containers">📦 **FT-Containers**</a>
 
