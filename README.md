@@ -46,7 +46,7 @@ Currently working on my kernel from scratch in **C** and **ASM** with lot of fun
 
 ## Current Projects
 
-> - <a href="https://github.com/vvaucoul/KronOS/tree/work-in-progress">🖥️ **KFS-4**</a> - Interrupts for Kernel<br>
+> - <a href="https://github.com/vvaucoul/KronOS/tree/work-in-progress">🖥️ **KFS-5**</a> - Multitasking Kernel<br>
 > - 🐍 **Python-Module-1**<br>
 > - 🛡️ **Rainfall** - Reverse Engineering<br>
 
