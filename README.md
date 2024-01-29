@@ -23,7 +23,7 @@ Currently working on my kernel from scratch in **C** and **ASM** with lot of fun
 | <a href="https://github.com/vvaucoul/WebServ">**WebServ**</a> | <a href="https://github.com/vvaucoul/KronOS">**KFS-4**</a> |
 | <a href="https://github.com/vvaucoul/Ft_Containers">**Ft_Containers**</a> |  <a href="https://github.com/vvaucoul/Nibbler">**Nibbler**</a> |
 | **C++ Pool** | <a href="https://github.com/vvaucoul/KronOS">**KFS-3**</a> |
-| <a href="https://github.com/vvaucoul/Philosophers">**Philosophers**</a> |   **Snow-Crach** |
+| <a href="https://github.com/vvaucoul/Philosophers">**Philosophers**</a> |   **Snow-Crash** |
 | <a href="https://github.com/vvaucoul/Push_Swap">**PushSwap**</a> | <a href="https://github.com/vvaucoul/Ft_Turing">**FT_Turing**</a> |
 | <a href="https://github.com/vvaucoul/Minishell">**Minishell**</a> | <a href="https://github.com/vvaucoul/Lem-in">**Lem-In**</a> |
 | <a href="https://github.com/vvaucoul/Pipex">**Pipex**</a> |  <a href="https://github.com/vvaucoul/KronOS">**KFS-2**</a> |
